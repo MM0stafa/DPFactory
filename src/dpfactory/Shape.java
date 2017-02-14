@@ -11,6 +11,6 @@ package dpfactory;
  */
 public interface Shape {
     
-     void draw();
+     double calcArea(double x, double y);
     
 }

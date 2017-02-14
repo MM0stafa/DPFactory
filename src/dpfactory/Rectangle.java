@@ -12,8 +12,10 @@ package dpfactory;
 public class Rectangle implements Shape {
 
     @Override
-    public void draw() {
-        System.out.println("Inside Rectangle::draw() method.");
+    public double calcArea(double x, double y) {
+        return x*y*0.5;
     }
+
+
 
 }
