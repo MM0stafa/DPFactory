@@ -17,11 +17,3 @@ dist/
 build/
 nbproject/
 
-=======
-/build/
-
-*.xml
-nbproject/
-dist/
-build/
->>>>>>> 731759d892ffe4d995c5ceac23fdc1ec05dfaed0
