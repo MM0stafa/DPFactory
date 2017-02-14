@@ -12,8 +12,10 @@
 hs_err_pid*
 <<<<<<< HEAD
 
+/build/
+ 
 *.xml
+nbproject/
 dist/
 build/
-nbproject/
 
